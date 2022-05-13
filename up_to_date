@@ -1,0 +1,21 @@
+### change the existing branch called 'main'
+git checkout main
+
+### create a new file on main by the name 'up_to_date'
+touch up_to_date
+
+### write the command line used to create this file
+nano up_to_date
+
+## stage the file
+git add .
+
+### check the status
+
+git status
+
+## commite change
+git commite -m 'How to be up to date in git'
+
+## push the change
+git push -u origion main
