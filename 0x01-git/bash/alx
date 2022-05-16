@@ -1,5 +1,2 @@
 #!/bin/bash
-
-
-echo "School is FUNNY!"
-
+echo "ALX School"
